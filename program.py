@@ -4,5 +4,4 @@
 def myfunction(Emre):
     myfunction = "Hello " + Emre
     return myfunction
-
 print(myfunction("Emre"))
